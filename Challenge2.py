@@ -29,3 +29,6 @@ def isEven(x):
 
 if __name__ == "__main__":
   main()
+
+print("Barack and Michelle are actual life goals")
+print("Tsemaye should stop trying to make me a positive person")
